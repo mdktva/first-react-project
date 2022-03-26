@@ -9,7 +9,7 @@ function App() {
 
   const carsArray = [
     { 
-      title: "Продаю Audi",
+      title: "Продаю Aуди",
       price: 5000,
       description:"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repudiandae impedit mollitia autem. Facere eius voluptate omnis",
       img: "https://cdn.motor1.com/images/mgl/v11Lb/s1/4x3/audi-a3-limousine-2020.webp"
